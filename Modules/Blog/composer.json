@@ -1,0 +1,23 @@
+{
+    "name": "jatayu/blog",
+    "description": "",
+    "authors": [
+        {
+            "name": "Adi Arta Wibawa",
+            "email": "surat.buat.adi@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Blog\\": ""
+        }
+    }
+}
